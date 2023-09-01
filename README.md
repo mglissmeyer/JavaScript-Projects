@@ -40,5 +40,3 @@ Feel free to explore each project, experiment with the features, and see how the
 If you have any questions or feedback, please don't hesitate to reach out. Enjoy exploring the projects!
 
 ---
-
-*Note: This README is a sample and should be customized with your actual project details, including images and instructions for running each project.*
