@@ -7,19 +7,13 @@ Welcome to my JavaScript Projects repository! Here, you'll find a collection of 
 
 ### 1. Pizza Menu
 
-![Pizza Menu Screenshot](images/pizza-menu.png)
-
 The Pizza Menu project challenged me to create a dynamic menu for ordering pizzas. It offers a range of toppings and sizes for users to customize their pizza. The application calculates the total cost based on the user's selections.
 
 ### 2. Tic Tac Toe
 
-![Tic Tac Toe Screenshot](images/tic-tac-toe.png)
-
 In the Tic Tac Toe project, I developed a classic game where users can play against the computer. It's a fun and interactive way to test your strategic skills and compete against an AI opponent.
 
 ### 3. Calculator
-
-![Calculator Screenshot](images/calculator.png)
 
 The Calculator project involved building a simple yet functional 4-function calculator. Users can perform addition, subtraction, multiplication, and division with ease. It's a handy tool for quick calculations.
 
